@@ -1,0 +1,6 @@
+:source-highlighter: prettify
+
+= Devoxx4Kids 2019 mBot workshop
+ifdef::env-github,env-browser[:outfilesuffix: .adoc]
+
+Please visit the https://fvanwesterop.github.io/devoxx4kids-mbot/docs/[workshop docs] and continue from there.
